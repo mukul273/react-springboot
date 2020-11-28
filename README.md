@@ -1,6 +1,8 @@
 # ReactJs front end with Springboot backend with MySQL database
 
-Please check * [for backend code]( https://github.com/mukul273/springboot-react )
+Please check:
+
+* [for backend code]( https://github.com/mukul273/springboot-react )
 
 * [Official ReactJs documentation] (<https://github.com/facebook/create-react-app>)
 * [Official ReactJs Code Snippets for VSCode] (<https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets>)
